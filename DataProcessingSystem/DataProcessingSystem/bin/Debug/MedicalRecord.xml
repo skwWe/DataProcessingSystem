@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+    <ArrayOfMedicalRecord xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+      <MedicalRecord>
+        <id>1</id>
+        <Name>Артур</Name>
+        <Age>25</Age>
+        <Diagnosis>Грипп</Diagnosis>
+      </MedicalRecord>
+      <MedicalRecord>
+        <id>2</id>
+        <Name>Джеймс</Name>
+        <Age>40</Age>
+        <Diagnosis>Пневмония</Diagnosis>
+      </MedicalRecord>
+    </ArrayOfMedicalRecord>

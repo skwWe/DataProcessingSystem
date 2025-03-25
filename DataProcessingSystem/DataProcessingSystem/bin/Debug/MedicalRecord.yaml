@@ -1,0 +1,8 @@
+    - id: 1
+      name: Диман
+      age: 30
+      diagnosis: Грипп
+    - id: 2
+      name: Оксана
+      age: 20
+      diagnosis: Ушиб
