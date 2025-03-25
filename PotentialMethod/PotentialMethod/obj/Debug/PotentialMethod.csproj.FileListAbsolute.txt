@@ -1,7 +1,0 @@
-C:\Users\Dom\source\repos\PotentialMethod\PotentialMethod\bin\Debug\PotentialMethod.exe.config
-C:\Users\Dom\source\repos\PotentialMethod\PotentialMethod\bin\Debug\PotentialMethod.exe
-C:\Users\Dom\source\repos\PotentialMethod\PotentialMethod\bin\Debug\PotentialMethod.pdb
-C:\Users\Dom\source\repos\PotentialMethod\PotentialMethod\obj\Debug\PotentialMethod.csproj.AssemblyReference.cache
-C:\Users\Dom\source\repos\PotentialMethod\PotentialMethod\obj\Debug\PotentialMethod.csproj.CoreCompileInputs.cache
-C:\Users\Dom\source\repos\PotentialMethod\PotentialMethod\obj\Debug\PotentialMethod.exe
-C:\Users\Dom\source\repos\PotentialMethod\PotentialMethod\obj\Debug\PotentialMethod.pdb
