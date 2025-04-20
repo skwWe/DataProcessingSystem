@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Dom\\Downloads\\CDID Work\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{DAA68B02-7BCF-4A2A-9284-4991BE6BA5E4}|UnitTests\\UnitTests.csproj|c:\\users\\dom\\downloads\\cdid work\\unittests\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DAA68B02-7BCF-4A2A-9284-4991BE6BA5E4}|UnitTests\\UnitTests.csproj|solutionrelative:unittests\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4A134CA4-A8D9-4AAD-B218-81E8B89C639C}|ArrayMethods\\ArrayMethods.csproj|C:\\Users\\Dom\\Downloads\\CDID Work\\arraymethods\\arraymethods.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4A134CA4-A8D9-4AAD-B218-81E8B89C639C}|ArrayMethods\\ArrayMethods.csproj|solutionrelative:arraymethods\\arraymethods.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "UnitTest1.cs",
+              "DocumentMoniker": "C:\\Users\\Dom\\Downloads\\CDID Work\\UnitTests\\UnitTest1.cs",
+              "RelativeDocumentMoniker": "UnitTests\\UnitTest1.cs",
+              "ToolTip": "C:\\Users\\Dom\\Downloads\\CDID Work\\UnitTests\\UnitTest1.cs",
+              "RelativeToolTip": "UnitTests\\UnitTest1.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAgwBUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-22T15:04:23.043Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ArrayMethods.cs",
+              "DocumentMoniker": "C:\\Users\\Dom\\Downloads\\CDID Work\\ArrayMethods\\ArrayMethods.cs",
+              "RelativeDocumentMoniker": "ArrayMethods\\ArrayMethods.cs",
+              "ToolTip": "C:\\Users\\Dom\\Downloads\\CDID Work\\ArrayMethods\\ArrayMethods.cs*",
+              "RelativeToolTip": "ArrayMethods\\ArrayMethods.cs*",
+              "ViewState": "AgIAABcAAAAAAAAAAAAkwDQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-22T15:03:24.638Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

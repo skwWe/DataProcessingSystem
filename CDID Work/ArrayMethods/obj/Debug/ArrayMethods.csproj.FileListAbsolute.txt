@@ -1,0 +1,12 @@
+C:\Users\КузнецовСС\source\repos\CDID Work\ArrayMethods\bin\Debug\ArrayMethods.dll
+C:\Users\КузнецовСС\source\repos\CDID Work\ArrayMethods\bin\Debug\ArrayMethods.pdb
+C:\Users\КузнецовСС\source\repos\CDID Work\ArrayMethods\obj\Debug\ArrayMethods.csproj.AssemblyReference.cache
+C:\Users\КузнецовСС\source\repos\CDID Work\ArrayMethods\obj\Debug\ArrayMethods.csproj.CoreCompileInputs.cache
+C:\Users\КузнецовСС\source\repos\CDID Work\ArrayMethods\obj\Debug\ArrayMethods.dll
+C:\Users\КузнецовСС\source\repos\CDID Work\ArrayMethods\obj\Debug\ArrayMethods.pdb
+C:\Users\Dom\Downloads\CDID Work\ArrayMethods\bin\Debug\ArrayMethods.dll
+C:\Users\Dom\Downloads\CDID Work\ArrayMethods\bin\Debug\ArrayMethods.pdb
+C:\Users\Dom\Downloads\CDID Work\ArrayMethods\obj\Debug\ArrayMethods.csproj.AssemblyReference.cache
+C:\Users\Dom\Downloads\CDID Work\ArrayMethods\obj\Debug\ArrayMethods.csproj.CoreCompileInputs.cache
+C:\Users\Dom\Downloads\CDID Work\ArrayMethods\obj\Debug\ArrayMethods.dll
+C:\Users\Dom\Downloads\CDID Work\ArrayMethods\obj\Debug\ArrayMethods.pdb
